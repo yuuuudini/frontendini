@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Click here banger music!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ?si=2515a3ba97d4430a"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          sTrAngErS - bMtH
         </a>
       </header>
     </div>
